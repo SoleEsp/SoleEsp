@@ -11,7 +11,7 @@ Soy apasionada por explorar y extraer conocimientos valiosos a partir de datos. 
 
 ## Redes Sociales 🌐
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)   [**Soledad Espiritu**](https://www.linkedin.com/in/soledad-esp%C3%ADritu-a809881bb/)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
 
 ## Mis Proyectos 🚀
 
